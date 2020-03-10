@@ -23,6 +23,9 @@ A repository with all updates on Incesthook.
 - Blockbot
 - Fakeping
 - Lobby spammer
+- Autostrafe
+- Circlestrafe
+- Music player // Why do I hear media music
 #### Antiaim
 - Freestanding
 #### Changers
@@ -37,6 +40,8 @@ A repository with all updates on Incesthook.
 #### Visuals
 - Desync side indicator filling
 - Lagcomp indicator
+#### Miscellaneous
+- Bunnyhop
 #### Menu
 - Fix colors
 - Move buttons to left
