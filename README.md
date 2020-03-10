@@ -12,9 +12,9 @@ A repository with all updates on Incesthook.
 - Rage resolver
 - Exploits
 #### Visuals
-- Add visual damage indicators
 - Add bullet tracers
 - Movable indicator window
+- Thirdperson
 #### Miscellaneous
 - Hitsounds & Killsounds
 - Add hitlist & playerlist
@@ -25,7 +25,7 @@ A repository with all updates on Incesthook.
 - Lobby spammer
 - Autostrafe
 - Circlestrafe
-- Music player // Why do I hear media music
+- Music player
 #### Antiaim
 - Freestanding
 #### Changers
@@ -45,3 +45,10 @@ A repository with all updates on Incesthook.
 #### Menu
 - Fix colors
 - Move buttons to left
+
+# Finished goals
+## Added
+#### Visuals
+- Add visual damage indicators
+## Fixed
+- Nothing yet
