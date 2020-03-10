@@ -21,8 +21,13 @@ A repository with all updates on Incesthook.
 - Scripts // For now, only custom language, later will be Lua, I hope.
 - Microphone Killsound
 - Blockbot
+- Fakeping
+- Lobby spammer
 #### Antiaim
 - Freestanding
+#### Changers
+- Inventory Changer
+- Profile Changer
 ## To improve / To fix
 #### Ragebot
 - Faststop
