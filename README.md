@@ -37,3 +37,6 @@ A repository with all updates on Incesthook.
 #### Visuals
 - Desync side indicator filling
 - Lagcomp indicator
+#### Menu
+- Fix colors
+- Move buttons to left
