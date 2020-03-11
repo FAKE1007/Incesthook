@@ -10,7 +10,7 @@ A repository with all updates on Incesthook.
   - Accurate: accurate but fps may be affected
 - Missed shot logs
 - Rage resolver
-- Exploits
+- Hide shots
 #### Visuals
 - Movable indicator window
 - Thirdperson
@@ -70,6 +70,7 @@ A repository with all updates on Incesthook.
 ## To improve / To fix
 #### Ragebot
 - Ghost shooting
+- Break lagcomp
 #### Visuals
 - Nothing yet
 #### Miscellaneous
