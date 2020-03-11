@@ -4,20 +4,20 @@ A repository with all updates on Incesthook.
 # Current goals
 ## To add
 #### Ragebot
-- Activate Revolver function
-- Add hitchance:
+- Activate Revolver
+- Hitchance:
   - Optimized: inaccurate but fps isn't affected
   - Accurate: accurate but fps may be affected
-- Add missed shot logs
+- Missed shot logs
 - Rage resolver
 - Exploits
 #### Visuals
-- Add bullet tracers
+- Bullet tracers
 - Movable indicator window
 - Thirdperson
 #### Miscellaneous
 - Hitsounds & Killsounds
-- Add hitlist & playerlist
+- Hitlist & playerlist
 - Scripts // For now, only custom language, later will be Lua, I hope.
 - Microphone Killsound
 - Blockbot
@@ -43,7 +43,7 @@ A repository with all updates on Incesthook.
 #### Miscellaneous
 - Bunnyhop
 #### Menu
-- Fix colors
+- Menu colors
 - Move buttons to left
 
 # Finished goals
