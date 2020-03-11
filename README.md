@@ -12,7 +12,6 @@ A repository with all updates on Incesthook.
 - Rage resolver
 - Exploits
 #### Visuals
-- Bullet tracers
 - Movable indicator window
 - Thirdperson
 #### Miscellaneous
@@ -31,26 +30,80 @@ A repository with all updates on Incesthook.
 #### Changers
 - Inventory Changer
 - Profile Changer
+#### Menu
+- No goals, yay!
 ## To improve / To fix
 #### Ragebot
 - Faststop
 - Legit resolver
 - Scout autofire
-- Ghost shooting
-#### Antiaim
-- Desync
 #### Visuals
 - Desync side indicator filling
 - Lagcomp indicator
 #### Miscellaneous
 - Bunnyhop
+#### Antiaim
+- Desync
+#### Changers
+- No goals, yay!
 #### Menu
 - Menu colors
 - Move buttons to left
 
+# Pending goals
+## To add
+#### Ragebot
+- Nothing yet
+#### Visuals
+- Bullet tracers
+- Visual damage indicators
+- Fakeduck indicator
+#### Miscellaneous
+- Nothing yet
+#### Antiaim
+- Nothing yet
+#### Changers
+- Nothing yet
+#### Menu
+- Nothing yet
+## To improve / To fix
+#### Ragebot
+- Ghost shooting
+#### Visuals
+- Nothing yet
+#### Miscellaneous
+- Nothing yet
+#### Antiaim
+- Nothing yet
+#### Changers
+- Nothing yet
+#### Menu
+- Nothing yet
+
 # Finished goals
 ## Added
-#### Visuals
-- Add visual damage indicators
-## Fixed
+#### Ragebot
 - Nothing yet
+#### Visuals
+- Nothing yet
+#### Miscellaneous
+- Nothing yet
+#### Antiaim
+- Nothing yet
+#### Changers
+- Nothing yet
+#### Menu
+- Nothing yet
+## Fixed
+#### Ragebot
+- Nothing yet
+#### Visuals
+- Nothing yet
+#### Miscellaneous
+- Nothing yet
+#### Antiaim
+- Nothing yet
+#### Changers
+- Nothing yet
+#### Menu
+- Exploits window popping out
