@@ -55,7 +55,7 @@ A repository with all updates on Incesthook.
 #### Ragebot
 - Nothing yet
 #### Visuals
-- Bullet tracers[attempt 1 - failed]
+- Nothing yet
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
@@ -68,7 +68,10 @@ A repository with all updates on Incesthook.
 #### Ragebot
 - Nothing yet
 #### Visuals
-- Nothing yet
+- Bullet tracers
+  - Fix ray filling
+  - Replace positions with origins
+  - Fix math visibility
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
