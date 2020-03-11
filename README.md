@@ -13,6 +13,7 @@ A repository with all updates on Incesthook.
 - Hide shots
 #### Visuals
 - Movable indicator window
+- Fix indicator positioning
 - Thirdperson
 #### Miscellaneous
 - Hitsounds & Killsounds
@@ -39,7 +40,6 @@ A repository with all updates on Incesthook.
 - Scout autofire
 #### Visuals
 - Desync side indicator filling
-- Lagcomp indicator
 #### Miscellaneous
 - Bunnyhop
 #### Antiaim
@@ -66,8 +66,7 @@ A repository with all updates on Incesthook.
 - Nothing yet
 ## To improve / To fix
 #### Ragebot
-- Ghost shooting
-- Break lagcomp
+- Nothing yet
 #### Visuals
 - Nothing yet
 #### Miscellaneous
@@ -97,7 +96,7 @@ A repository with all updates on Incesthook.
 - Nothing yet
 ## Fixed
 #### Ragebot
-- Nothing yet
+- Ghost shooting
 #### Visuals
 - Nothing yet
 #### Miscellaneous
