@@ -58,6 +58,7 @@ A repository with all updates on Incesthook.
 - Bullet tracers
 - Visual damage indicators
 - Enemy choke indicator
+- Fakeduck indicator
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
