@@ -35,6 +35,8 @@ A repository with all updates on Incesthook.
 #### Ragebot
 - Faststop
 - Legit resolver
+- Scout autofire
+- Ghost shooting
 #### Antiaim
 - Desync
 #### Visuals
