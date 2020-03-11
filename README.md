@@ -55,10 +55,7 @@ A repository with all updates on Incesthook.
 #### Ragebot
 - Nothing yet
 #### Visuals
-- Bullet tracers
-- Visual damage indicators
-- Enemy choke indicator
-- Fakeduck indicator
+- Bullet tracers[attempt 1 - failed]
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
@@ -87,7 +84,9 @@ A repository with all updates on Incesthook.
 #### Ragebot
 - Nothing yet
 #### Visuals
-- Nothing yet
+- Visual damage indicators
+- Enemy choke indicator
+- Fakeduck indicator
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
