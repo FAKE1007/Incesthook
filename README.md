@@ -6,7 +6,6 @@ A repository with all updates on Incesthook.
 #### Ragebot
 - Activate Revolver
 - Hitchance:
-  - Optimized: inaccurate but fps isn't affected
   - Accurate: accurate but fps may be affected
 - Missed shot logs
 - Rage resolver
@@ -53,7 +52,8 @@ A repository with all updates on Incesthook.
 # Pending goals
 ## To add
 #### Ragebot
-- Nothing yet
+- Hitchance
+  - Optimized: inaccurate but fps isn't affected
 #### Visuals
 - Nothing yet
 #### Miscellaneous
@@ -69,8 +69,6 @@ A repository with all updates on Incesthook.
 - Nothing yet
 #### Visuals
 - Bullet tracers
-  - Fix ray filling
-  - Replace positions with origins
   - Fix math visibility
 #### Miscellaneous
 - Nothing yet
