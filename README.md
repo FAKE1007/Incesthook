@@ -10,6 +10,7 @@ A repository with all updates on Incesthook.
 - Missed shot logs
 - Rage resolver
 - Hide shots
+- Fakelag prediction
 #### Visuals
 - Movable indicator window
 - Fix indicator positioning
@@ -25,6 +26,7 @@ A repository with all updates on Incesthook.
 - Autostrafe
 - Circlestrafe
 - Music player
+- sv_cheats spammer
 #### Antiaim
 - Freestanding
 #### Changers
