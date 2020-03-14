@@ -54,6 +54,7 @@ A repository with all updates on Incesthook.
 #### Ragebot
 - Hitchance
   - Optimized: inaccurate but fps isn't affected
+- Animfix
 #### Visuals
 - LBY indicator
 #### Miscellaneous
