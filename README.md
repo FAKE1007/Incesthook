@@ -55,7 +55,7 @@ A repository with all updates on Incesthook.
 - Hitchance
   - Optimized: inaccurate but fps isn't affected
 #### Visuals
-- Nothing yet
+- LBY indicator
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
@@ -72,7 +72,6 @@ A repository with all updates on Incesthook.
   - Fix math visibility
 - Thirdperson // Flicking player model, will be searching convar sdk l8r
 - Indicator positioning
-- LBY indicator
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
