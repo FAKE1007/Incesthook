@@ -13,8 +13,6 @@ A repository with all updates on Incesthook.
 - Fakelag prediction
 #### Visuals
 - Movable indicator window
-- Fix indicator positioning
-- Thirdperson
 #### Miscellaneous
 - Hitsounds & Killsounds
 - Hitlist & playerlist
@@ -72,6 +70,9 @@ A repository with all updates on Incesthook.
 #### Visuals
 - Bullet tracers
   - Fix math visibility
+- Thirdperson // Flicking player model, will be searching convar sdk l8r
+- Indicator positioning
+- LBY indicator
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
