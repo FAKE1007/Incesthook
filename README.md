@@ -52,9 +52,7 @@ A repository with all updates on Incesthook.
   - Optimized: inaccurate but fps isn't affected
 - Missed shot logs
 #### Visuals
-- LBY indicator
-- Indicator positioning
-- Choke chams
+- Nothing yet
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
@@ -73,7 +71,7 @@ A repository with all updates on Incesthook.
 - Bullet tracers
   - Fix math visibility
 - Thirdperson // Flicking player model, will be searching convar sdk l8r
-- Indicator positioning
+- Indicator positioning // Only fix text location, overall fixed
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
@@ -91,6 +89,9 @@ A repository with all updates on Incesthook.
 - Visual damage indicators
 - Enemy choke indicator
 - Fakeduck indicator
+- Indicator positioning
+- Choke chams
+- LBY indicator
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
