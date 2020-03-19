@@ -48,8 +48,6 @@ A repository with all updates on Incesthook.
 # Pending goals
 ## To add
 #### Ragebot
-- Hitchance
-  - Optimized: inaccurate but fps isn't affected
 - Missed shot logs
 #### Visuals
 - Nothing yet
@@ -85,6 +83,8 @@ A repository with all updates on Incesthook.
 #### Ragebot
 - Legit & Rage resolvers
 - Break lagcomp
+- Hitchance
+  - Optimized: inaccurate but fps isn't affected
 #### Visuals
 - Visual damage indicators
 - Enemy choke indicator
