@@ -7,8 +7,6 @@ A repository with all updates on Incesthook.
 - Activate Revolver
 - Hitchance:
   - Accurate: accurate but fps may be affected
-- Missed shot logs
-- Rage resolver
 - Hide shots
 - Fakelag prediction
 #### Visuals
@@ -35,8 +33,6 @@ A repository with all updates on Incesthook.
 ## To improve / To fix
 #### Ragebot
 - Faststop
-- Legit resolver
-- Scout autofire
 #### Visuals
 - Desync side indicator filling
 #### Miscellaneous
@@ -54,9 +50,11 @@ A repository with all updates on Incesthook.
 #### Ragebot
 - Hitchance
   - Optimized: inaccurate but fps isn't affected
-- Animfix
+- Missed shot logs
 #### Visuals
 - LBY indicator
+- Indicator positioning
+- Choke chams
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
@@ -67,7 +65,10 @@ A repository with all updates on Incesthook.
 - Nothing yet
 ## To improve / To fix
 #### Ragebot
-- Nothing yet
+- Legit resolver // It will always be here
+- Rage resolver // This too
+- Animfix // Yep, this too
+- Scout autofire
 #### Visuals
 - Bullet tracers
   - Fix math visibility
