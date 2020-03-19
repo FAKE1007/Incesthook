@@ -71,7 +71,6 @@ A repository with all updates on Incesthook.
 - Bullet tracers
   - Fix math visibility
 - Thirdperson // Flicking player model, will be searching convar sdk l8r
-- Indicator positioning // Only fix text location, overall fixed
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
@@ -84,12 +83,12 @@ A repository with all updates on Incesthook.
 # Finished goals
 ## Added
 #### Ragebot
-- Nothing yet
+- Legit & Rage resolvers
+- Break lagcomp
 #### Visuals
 - Visual damage indicators
 - Enemy choke indicator
 - Fakeduck indicator
-- Indicator positioning
 - Choke chams
 - LBY indicator
 #### Miscellaneous
@@ -104,7 +103,7 @@ A repository with all updates on Incesthook.
 #### Ragebot
 - Ghost shooting
 #### Visuals
-- Nothing yet
+- Indicator positioning
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
@@ -113,3 +112,4 @@ A repository with all updates on Incesthook.
 - Nothing yet
 #### Menu
 - Exploits window popping out
+- Fakelag window not reaching the end
