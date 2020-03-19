@@ -50,7 +50,7 @@ A repository with all updates on Incesthook.
 - Activate Revolver
 - Missed shot logs
 #### Visuals
-- Nothing yet
+- Thirdperson chams
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
