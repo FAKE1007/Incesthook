@@ -4,7 +4,6 @@ A repository with all updates on Incesthook.
 # Current goals
 ## To add
 #### Ragebot
-- Activate Revolver
 - Hitchance:
   - Accurate: accurate but fps may be affected
 - Hide shots
@@ -48,6 +47,7 @@ A repository with all updates on Incesthook.
 # Pending goals
 ## To add
 #### Ragebot
+- Activate Revolver
 - Missed shot logs
 #### Visuals
 - Nothing yet
