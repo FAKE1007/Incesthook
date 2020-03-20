@@ -47,10 +47,9 @@ A repository with all updates on Incesthook.
 # Pending goals
 ## To add
 #### Ragebot
-- Activate Revolver
 - Missed shot logs
 #### Visuals
-- Pulsating thirdperson chams
+- Nothing yet
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
@@ -85,12 +84,14 @@ A repository with all updates on Incesthook.
 - Break lagcomp
 - Hitchance
   - Optimized: inaccurate but fps isn't affected
+- Activate Revolver
 #### Visuals
 - Visual damage indicators
 - Enemy choke indicator
 - Fakeduck indicator
 - Choke chams
 - LBY indicator
+- Pulsating thirdperson chams
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
