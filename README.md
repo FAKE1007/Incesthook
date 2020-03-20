@@ -6,6 +6,9 @@ A repository with all updates on Incesthook.
 #### Ragebot
 - Hitchance:
   - Accurate: accurate but fps may be affected
+- Min damage
+- Consistency
+- Reduce movement spread
 - Hide shots
 - Fakelag prediction
 #### Visuals
@@ -18,7 +21,6 @@ A repository with all updates on Incesthook.
 - Blockbot
 - Fakeping
 - Lobby spammer
-- Autostrafe
 - Circlestrafe
 - Music player
 - sv_cheats spammer
@@ -35,7 +37,7 @@ A repository with all updates on Incesthook.
 #### Visuals
 - Desync side indicator filling
 #### Miscellaneous
-- Bunnyhop
+- No goals, yay!
 #### Antiaim
 - Desync
 #### Changers
@@ -93,7 +95,7 @@ A repository with all updates on Incesthook.
 - LBY indicator
 - Pulsating thirdperson chams
 #### Miscellaneous
-- Nothing yet
+- Autostrafe
 #### Antiaim
 - Nothing yet
 #### Changers
@@ -106,7 +108,7 @@ A repository with all updates on Incesthook.
 #### Visuals
 - Indicator positioning
 #### Miscellaneous
-- Nothing yet
+- Bunnyhop
 #### Antiaim
 - Nothing yet
 #### Changers
