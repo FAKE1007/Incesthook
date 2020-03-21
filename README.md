@@ -53,7 +53,7 @@ Goals that I am currently doing
 #### Ragebot
 - Missed shot logs
 #### Visuals
-- Hand chams
+- Nothing yet
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
@@ -96,7 +96,9 @@ Finished goals, yay!
 - Fakeduck indicator
 - Choke chams
 - LBY indicator
+- LC indicator
 - Pulsating thirdperson chams
+- Hand chams
 #### Miscellaneous
 - Autostrafe
 #### Antiaim
