@@ -2,6 +2,7 @@
 A repository with all updates on Incesthook.
 
 # Current goals
+Goals that I currently want to do
 ## To add
 #### Ragebot
 - Hitchance:
@@ -47,11 +48,12 @@ A repository with all updates on Incesthook.
 - Move buttons to left
 
 # Pending goals
+Goals that I am currently doing
 ## To add
 #### Ragebot
 - Missed shot logs
 #### Visuals
-- Nothing yet
+- Hand chams
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
@@ -80,6 +82,7 @@ A repository with all updates on Incesthook.
 - Nothing yet
 
 # Finished goals
+Finished goals, yay!
 ## Added
 #### Ragebot
 - Legit & Rage resolvers
