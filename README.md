@@ -23,6 +23,9 @@ Goals that I currently want to do
 - Fakeping
 - Lobby spammer
 - Circlestrafe
+  - Angled: Rotates you while jumping
+  - Silent: Rotates you while jumping without visual angling
+  - Movement: Controls your movement using forwardmove & sidemove
 - Music player
 - sv_cheats spammer
 #### Antiaim
