@@ -28,6 +28,7 @@ Goals that I currently want to do
   - Movement: Controls your movement using forwardmove & sidemove
 - Music player
 - sv_cheats spammer
+- Fast AWP
 #### Antiaim
 - Freestanding
 #### Changers
