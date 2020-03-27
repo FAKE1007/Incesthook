@@ -40,7 +40,7 @@ Goals that I currently want to do
 #### Miscellaneous
 - No goals, yay!
 #### Antiaim
-- Desync
+- No goals, yay!
 #### Changers
 - No goals, yay!
 #### Menu
@@ -69,13 +69,15 @@ Goals that I am currently doing
 - Animfix // Yep, this too
 - Scout autofire
 #### Visuals
-- Bullet tracers
-  - Fix math visibility
-- Thirdperson // Flicking player model, will be searching convar sdk l8r
+- Thirdperson // Flicking player model
+- Fake/Real chams
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
 - Legit Antiaim
+- Sway Desync
+- Butterfly Desync
+- LBY Mode
 #### Changers
 - Nothing yet
 #### Menu
@@ -99,10 +101,11 @@ Finished goals, yay!
 - LC indicator
 - Pulsating thirdperson chams
 - Hand chams
+- Bullet tracers
 #### Miscellaneous
 - Autostrafe
 #### Antiaim
-- Nothing yet
+- Static Desync
 #### Changers
 - Nothing yet
 #### Menu
