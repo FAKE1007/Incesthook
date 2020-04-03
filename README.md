@@ -67,13 +67,13 @@ Goals that I am currently doing
 - Nothing yet
 ## To improve / To fix
 #### Ragebot
+- Perfect activate revolver
 - Legit resolver // It will always be here
 - Rage resolver // This too
 - Animfix // Yep, this too
 - Scout autofire
 #### Visuals
-- Thirdperson // Flicking player model
-- Fake/Real chams
+- Coltsense watermark
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
@@ -96,13 +96,14 @@ Finished goals, yay!
   - Optimized: inaccurate but fps isn't affected
 - Activate Revolver
 #### Visuals
+- Thirdperson
+- Thirdperson chams
 - Visual damage indicators
 - Enemy choke indicator
 - Fakeduck indicator
 - Choke chams
 - LBY indicator
 - LC indicator
-- Pulsating thirdperson chams
 - Hand chams
 - Bullet tracers
 #### Miscellaneous
