@@ -16,14 +16,13 @@ Goals that I currently want to do
 - Movable indicator window
 #### Miscellaneous
 - Hitsounds & Killsounds
-- Hitlist & playerlist
+- Hitlist & Playerlist
 - Scripts // For now, only custom language, later will be Lua, I hope.
 - Microphone Killsound
 - Blockbot
-- Fakeping
-- Lobby spammer
-- Music player
-- sv_cheats spammer
+- Lobby Spammer
+- Music Player
+- sv_cheats Spammer
 - Fast AWP
 #### Antiaim
 - Freestanding
@@ -73,15 +72,13 @@ Goals that I am currently doing
 - Animfix // Yep, this too
 - Scout autofire
 #### Visuals
-- Coltsense watermark
+- Nothing yet
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
-- Rewrite LBY breaker
 - Legit Antiaim
 - Sway Desync
 - Butterfly Desync
-- LBY Mode
 #### Changers
 - Nothing yet
 #### Menu
@@ -107,10 +104,13 @@ Finished goals, yay!
 - LC indicator
 - Hand chams
 - Bullet tracers
+- Coltsense watermark
 #### Miscellaneous
 - Autostrafe
 #### Antiaim
 - Static Desync
+- Rewrite LBY breaker
+- LBY Mode
 #### Changers
 - Nothing yet
 #### Menu
