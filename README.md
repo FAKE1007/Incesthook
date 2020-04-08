@@ -43,7 +43,6 @@ Goals that I currently want to do
 - No goals, yay!
 #### Menu
 - Menu colors
-- Move buttons to left
 
 # Pending goals
 Goals that I am currently doing
