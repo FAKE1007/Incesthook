@@ -74,7 +74,7 @@ Goals that I am currently doing
 #### Visuals
 - Nothing yet
 #### Miscellaneous
-- Nothing yet
+- Fixed autostrafe
 #### Antiaim
 - Nothing yet
 #### Changers
@@ -84,8 +84,8 @@ Goals that I am currently doing
 
 # Finished goals
 Finished goals, yay!
-## Added
 #### Ragebot
+- Fixed ghost shooting
 - Legit & Rage resolvers
 - Break lagcomp
 - Hitchance
@@ -103,6 +103,7 @@ Finished goals, yay!
 - Hand chams
 - Bullet tracers
 - Coltsense watermark
+- Fixed indicator positioning
 #### Miscellaneous
 - Autostrafe
 #### Antiaim
@@ -110,18 +111,5 @@ Finished goals, yay!
 #### Changers
 - Nothing yet
 #### Menu
-- Nothing yet
-## Fixed
-#### Ragebot
-- Ghost shooting
-#### Visuals
-- Indicator positioning
-#### Miscellaneous
-- Bunnyhop
-#### Antiaim
-- Nothing yet
-#### Changers
-- Nothing yet
-#### Menu
-- Exploits window popping out
-- Fakelag window not reaching the end
+- Fixed exploits window popping out
+- Fixed fakelag window not reaching the end
