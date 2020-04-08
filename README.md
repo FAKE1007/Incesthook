@@ -5,13 +5,12 @@ A repository with all updates on Incesthook.
 Goals that I currently want to do
 ## To add
 #### Ragebot
-- Hitchance:
-  - Accurate: accurate but fps may be affected
 - Min damage
 - Consistency
 - Reduce movement spread
 - Hide shots
 - Fakelag prediction
+- Actual bone selection
 #### Visuals
 - Movable indicator window
 #### Miscellaneous
@@ -51,15 +50,16 @@ Goals that I am currently doing
 ## To add
 #### Ragebot
 - Missed shot logs
+- Hitchance:
+  - Accurate: accurate but fps may be affected
 #### Visuals
 - Nothing yet
 #### Miscellaneous
 - Circlestrafe
-  - Angled: Rotates you while jumping
-  - Silent: Rotates you while jumping without visual angling
+  - Angle: Rotates you while jumping
   - Movement: Controls your movement using forwardmove & sidemove
 #### Antiaim
-- Nothing yet
+- FULL ANTIAIM REWRITE
 #### Changers
 - Nothing yet
 #### Menu
@@ -76,7 +76,7 @@ Goals that I am currently doing
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
-- FULL ANTIAIM REWRITE
+- Nothing yet
 #### Changers
 - Nothing yet
 #### Menu
@@ -106,9 +106,7 @@ Finished goals, yay!
 #### Miscellaneous
 - Autostrafe
 #### Antiaim
-- Static Desync
-- Rewrite LBY breaker
-- LBY Mode
+- Nothing yet - Everything was nullified due to full rewrite
 #### Changers
 - Nothing yet
 #### Menu
