@@ -76,9 +76,7 @@ Goals that I am currently doing
 #### Miscellaneous
 - Nothing yet
 #### Antiaim
-- Legit Antiaim
-- Sway Desync
-- Butterfly Desync
+- FULL ANTIAIM REWRITE
 #### Changers
 - Nothing yet
 #### Menu
