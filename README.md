@@ -66,14 +66,11 @@ Goals that I am currently doing
 ## To improve / To fix
 #### Ragebot
 - Perfect activate revolver
-- Legit resolver // It will always be here
-- Rage resolver // This too
-- Animfix // Yep, this too
 - Scout autofire
 #### Visuals
 - Nothing yet
 #### Miscellaneous
-- Fix bunnyhop // F
+- Fix bunnyhop
 #### Antiaim
 - Nothing yet
 #### Changers
