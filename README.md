@@ -74,7 +74,7 @@ Goals that I am currently doing
 #### Visuals
 - Nothing yet
 #### Miscellaneous
-- Fixed autostrafe
+- Fix bunnyhop // F
 #### Antiaim
 - Nothing yet
 #### Changers
