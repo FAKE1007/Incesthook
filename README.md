@@ -24,7 +24,10 @@ Goals that I currently want to do
 - sv_cheats Spammer
 - Fast AWP
 #### Antiaim
-- Freestanding
+- Base yaw freestanding
+- Desync side freestanding:
+  - Freestand
+  - Anti freestand // aimware time lol
 #### Changers
 - Inventory Changer
 - Profile Changer
@@ -98,7 +101,7 @@ Finished goals, yay!
 - LC indicator
 - Hand chams
 - Bullet tracers
-- Coltsense watermark
+- Better watermark
 - Fixed indicator positioning
 #### Miscellaneous
 - Autostrafe
