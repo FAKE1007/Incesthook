@@ -11,49 +11,43 @@ Goals that I currently want to do
 - Hide shots
 - Fakelag prediction
 - Actual bone selection
+- Faststop
 #### Visuals
 - Movable indicator window
+- Full desync side indicator filling
 #### Miscellaneous
 - Hitsounds & Killsounds
 - Hitlist & Playerlist
-- Scripts // For now, only custom language, later will be Lua, I hope.
+- Scripts
 - Microphone Killsound
 - Blockbot
 - Lobby Spammer
 - Music Player
-- sv_cheats Spammer
 - Fast AWP
 #### Antiaim
 - Base yaw freestanding
 - Desync side freestanding:
   - Freestand
   - Anti freestand // aimware time lol
+- Anti bruteforce:
+  - Normal
+  - Double
+  - Double negative
+  - Shift
 #### Changers
 - Inventory Changer
 - Profile Changer
 #### Menu
-- No goals, yay!
-## To improve / To fix
-#### Ragebot
-- Faststop
-#### Visuals
-- Desync side indicator filling
-#### Miscellaneous
-- No goals, yay!
-#### Antiaim
-- No goals, yay!
-#### Changers
-- No goals, yay!
-#### Menu
-- Menu colors
+- Better menu colors
 
 # Pending goals
 Goals that I am currently doing
-## To add
 #### Ragebot
 - Missed shot logs
 - Hitchance:
   - Accurate: accurate but fps may be affected
+- Perfect activate revolver
+- Scout autofire
 #### Visuals
 - Nothing yet
 #### Miscellaneous
@@ -62,20 +56,6 @@ Goals that I am currently doing
   - Movement: Controls your movement using forwardmove & sidemove
 #### Antiaim
 - FULL ANTIAIM REWRITE
-#### Changers
-- Nothing yet
-#### Menu
-- Nothing yet
-## To improve / To fix
-#### Ragebot
-- Perfect activate revolver
-- Scout autofire
-#### Visuals
-- Nothing yet
-#### Miscellaneous
-- Fix bunnyhop
-#### Antiaim
-- Nothing yet
 #### Changers
 - Nothing yet
 #### Menu
@@ -104,6 +84,7 @@ Finished goals, yay!
 - Better watermark
 - Fixed indicator positioning
 #### Miscellaneous
+- Fixed bunnyhop
 - Autostrafe
 #### Antiaim
 - Nothing yet - Everything was nullified due to full rewrite
