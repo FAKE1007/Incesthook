@@ -3,7 +3,6 @@ A repository with all updates on Incesthook.
 
 # Current goals
 Goals that I currently want to do
-## To add
 #### Ragebot
 - Min damage
 - Consistency
@@ -12,6 +11,7 @@ Goals that I currently want to do
 - Fakelag prediction
 - Actual bone selection
 - Faststop
+- Fix not shooting
 #### Visuals
 - Movable indicator window
 - Full desync side indicator filling
